@@ -1,4 +1,4 @@
-# Module 3: Operational DNS (Expanded Edition)
+# Module 3: Operational DNS
 
 ---
 

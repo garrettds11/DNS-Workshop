@@ -1,4 +1,4 @@
-# Module 2: Domain Names (Expanded Edition)
+# Module 2: Domain Names
 
 ---
 

@@ -1,4 +1,4 @@
-# Module 6: Debugging DNS Issues (Expanded Edition)
+# Module 6: Debugging DNS Issues
 
 ---
 

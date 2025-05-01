@@ -1,4 +1,4 @@
-# Module 4: Types of DNS Records (Expanded Edition)
+# Module 4: Types of DNS Records
 
 ---
 

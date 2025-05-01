@@ -1,4 +1,4 @@
-# Module 5: Email and DNS (Expanded Edition)
+# Module 5: Email and DNS
 
 ---
 

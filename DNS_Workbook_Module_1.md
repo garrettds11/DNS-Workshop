@@ -1,4 +1,4 @@
-# Module 1: DNS from First Principles (Expanded Edition)
+# Module 1: DNS from First Principles
 
 ---
 
